@@ -1,0 +1,16 @@
+{
+  "TaskName": "Minus24x60xMinus2",
+  "Modality": "MR",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "MR750",
+  "InstitutionName": "Stanford University - School of Medicine",
+  "InstitutionalDepartmentName": "Department of Radiology",
+  "InstitutionAddress": "1201 Welch Road Stanford, CA 94305",
+  "ScanningSequence": "sprlio",
+  "SliceOrder": "sequential",
+  "EchoTime": 0.03,
+  "RepetitionTime": 2.4,
+  "FlipAngle": 85,
+  "PulseSequenceType": "T2*"
+}
